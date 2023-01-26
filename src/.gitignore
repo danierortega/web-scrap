@@ -1,0 +1,5 @@
+# ignora carpeta node_modules
+node_modules
+
+# used comands for node, npm and other modules in the terminal
+*.txt
