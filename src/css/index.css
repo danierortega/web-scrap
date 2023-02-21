@@ -208,6 +208,9 @@ body {
     }
 
     /*Nav-responsive*/
+    .nav a:hover {
+        color: rgb(41, 238, 208);
+    }
 
 
     .nav a::before,
